@@ -6,10 +6,10 @@ import os
 app = Flask(__name__, template_folder='templates')
 
 # Configuración de la base de datos
-DB_HOST = 'dpg-crk8hg88fa8c7396oi1g-a.oregon-postgres.render.com'
-DB_NAME = 'dbpersonal'
-DB_USER = 'dbpersonal_mub8_user'
-DB_PASSWORD = 'bpRPiKiWaWNWumcaSH6NAf3yUSM7VO2Q'
+DB_HOST = 'dpg-crk9dndumphs73agcl90-a.oregon-postgres.render.com'
+DB_NAME = 'dbexamen'
+DB_USER = 'dbexamen_d4s6_user'
+DB_PASSWORD = 'KHiAF8D3coVcV59wRBFgBi8GrOJUQCMV'
 
 
 def conectar_db():
